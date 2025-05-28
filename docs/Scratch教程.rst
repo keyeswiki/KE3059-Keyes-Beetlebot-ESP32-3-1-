@@ -1056,8 +1056,8 @@ IP地址，再切换WiFi按钮来连接WiFi（白色WIFI按钮变成绿色WIFI�
 .. |image160| image:: ./media/img-20230330154416.png
 .. |image161| image:: ./media/img-20230330154423.png
 .. |image162| image:: ./media/img-20230518083704.png
-.. |image163| image:: ./media/img-20230331105830.png
-.. |image164| image:: ./media/img-20250425132049.png
+.. |image163| image:: ./media/img-20250424165708.png
+.. |image164| image:: ./media/ABCD123.png
 .. |image165| image:: ./media/img-20230331104105.png
 .. |image166| image:: ./media/img-20230331104502.png
 .. |image167| image:: ./media/img-20230331144331.png
